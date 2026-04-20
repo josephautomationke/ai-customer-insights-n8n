@@ -51,3 +51,4 @@ I built an AI-powered workflow using n8n that analyzes customer messages and ext
 - Dashboard visualization
 - Real-time alerts
 - Integration with CRM systems
+[Download n8n Workflow](./customer-insights-workflow.json)
