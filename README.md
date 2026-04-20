@@ -1,5 +1,5 @@
 # 📊 AI Customer Insights System (n8n)
-
+![Workflow](https://github.com/josephautomationke/ai-customer-insights-n8n/blob/main/Ai%20Customer%20insights%20p.png?raw=true)
 ## 🧠 Problem
 Businesses receive many customer messages but struggle to extract useful insights like common complaints, needs, and trends.
 
